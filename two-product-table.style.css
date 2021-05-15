@@ -1,0 +1,26 @@
+.two-product-table-container{
+    width: 95%;
+    min-height: 387px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid black;
+    background-color:cyan ;
+
+}
+.product-form{
+    background-color:cyan ;
+    
+    display: flex;
+    justify-content: row;
+    align-self: flex-end;
+    
+} 
+.titu{
+    background-color:cadetblue;
+    margin-top: 10px;
+    border: 8px solid black;
+    float: right;
+    width: auto;
+    
+}

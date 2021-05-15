@@ -1,0 +1,11 @@
+.disfras-product-row-cont{
+    border: 5px solid cadetblue;
+    text-align: left;
+    margin-bottom: 1px;
+    border-radius: 80px;
+}
+
+.product-without-stock{
+    color:red;
+    font-weight: bold;
+}

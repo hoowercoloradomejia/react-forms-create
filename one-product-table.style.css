@@ -1,0 +1,8 @@
+.one-product-table-cont{
+    width:289px;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid gray;
+    background-color:aquamarine;
+    justify-content: space-around;
+}
